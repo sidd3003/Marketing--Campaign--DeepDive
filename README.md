@@ -1,11 +1,11 @@
 # Marketing Campaign DeepDive
 
 ## Project Background
-This project focuses on optimizing a year-end sale campaign for a superstore by offering a gold membership exclusively for existing customers, priced at $499 (down from $999), which provides a 20% discount on all purchases. The goal is to identify which customer segments are most likely to purchase this offer. By predicting the most responsive customers, the store aims to reduce campaign costs and maximize sales through a targeted marketing approach.
+This project focuses on optimizing a year-end sale campaign for a superstore by offering a gold membership exclusively for existing customers, priced at $499 (down from $999), which provides a 20% discount on all purchases. The goal is to identify which customer segments will most likely purchase this offer. By predicting the most responsive customers, the store aims to reduce campaign costs and maximize sales through a targeted marketing approach.
 
 ## Dataset Structure
 
-The dataset contains various customer demographics, purchase history, and responses to past campaigns, can be found [here](https://github.com/nikitaprasad21/Marketing-Campaign-Dashboard/blob/main/superstore_data.csv).
+The dataset contains various customer demographics, purchase history, and responses to past campaigns, can be found [here](https://github.com/sidd3003/Marketing--Campaign--DeepDive/blob/main/superstore_data.csv).
 
 ## Executive Summary
 This project aims to identify which customers are most likely to avail the new gold membership offer, helping the superstore reduce marketing costs while boosting sales. Using customer demographics, purchase behaviors, and past campaign responses, a dashboard using **Power BI** was developed to predict customer responses and analyze key factors driving their behavior.
@@ -20,11 +20,11 @@ Key observations indicate that Elite Customers—primarily adults who recently m
 
 1. Cleaned the uncleaned dataset using **Excel** for Marketing Campaign Analysis. 
 
-2. Performed following transformation on data using **Power BI** 
+2. Performed the following transformation on data using **Power BI** 
    * to remove duplicate rows, 
    * to replace  numerical values of responses to text values, 
    * to create new columns using DAX functions for creating calculated columns, measures, and custom tables, 
-   * to visualize data to predict below mention observations and recommendations.
+   * to visualize data to predict the mention observations and recommendations.
   
 ## Dashboard
 
