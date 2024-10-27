@@ -28,7 +28,7 @@ Key observations indicate that Elite Customers—primarily adults who recently m
   
 ## Dashboard
 
-**Power BI** — Marketing Campaign Dashboard Report, can be downloaded from [here](https://github.com/nikitaprasad21/Marketing-Campaign-Dashboard/blob/main/Superstore%20Marketing%20Campaign.pbix)
+**Power BI** — Marketing Campaign Dashboard Report, can be downloaded from [here](https://github.com/sidd3003/Marketing--Campaign--DeepDive/blob/main/Superstore%20Marketing%20Campaign.pbix)
 
 Here is the glimpse of dashboard.
 
