@@ -36,17 +36,17 @@ Here is the glimpse of dashboard.
 
 ## Insights
 #### Category 1. Elite Customer Category:
-    * Elite Customers contribute 86% of total sales, showing high purchase frequency.
-    * This segment is the most likely to respond positively to the gold membership offer.
+* Elite Customers contribute 86% of total sales, showing high purchase frequency.
+* This segment is the most likely to respond positively to the gold membership offer.
 #### Category 2. Potential Customers:
-    * Married and college-educated individuals are more likely to purchase, with preferences for items like meat and fish, often accompanied by wine.
+* Married and college-educated individuals are more likely to purchase, with preferences for items like meat and fish, often accompanied by wine.
 #### Category 3. In-store vs. Online Purchases:
-    * Customers prefer in-store purchases over online shopping, with low engagement from Elite Customers in online offers.
+* Customers prefer in-store purchases over online shopping, with low engagement from Elite Customers in online offers.
 #### Category 4. Low Complaint Rate:
-    * The store maintains a low complaint rate, reflecting high customer satisfaction.
+* The store maintains a low complaint rate, reflecting high customer satisfaction.
 #### Category 5. Gold Product Interest:
-    * Married couples consistently show interest in Gold Products, making them an important segment for targeted         
-      promotions.
+* Married couples consistently show interest in Gold Products, making them an important segment for targeted         
+  promotions.
   
 ## Recommendations
 Based on the key observations, the following strategies are recommended:
