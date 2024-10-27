@@ -36,11 +36,10 @@ Here is the glimpse of dashboard.
 
 ## Insights
 #### Category 1. Elite Customer Category:
-
     * Elite Customers contribute 86% of total sales, showing high purchase frequency.
     * This segment is the most likely to respond positively to the gold membership offer.
 #### Category 2. Potential Customers:
-    * Married and college-educated individuals are more likely to purchase, with preferences for items like meat and fish,       often accompanied by wine.
+    * Married and college-educated individuals are more likely to purchase, with preferences for items like meat and fish, often accompanied by wine.
 #### Category 3. In-store vs. Online Purchases:
     * Customers prefer in-store purchases over online shopping, with low engagement from Elite Customers in online offers.
 #### Category 4. Low Complaint Rate:
@@ -58,7 +57,8 @@ Based on the key observations, the following strategies are recommended:
 #### Category 2. Prioritize Married or Graduated Customers:
     * Within the Elite Customer Category, prioritize married or college-educated individuals for the campaign to maximize        engagement and conversion rates.
 #### Category 3. Customize Promotions:
-    * Maintain and enhance customer satisfaction by tailoring promotions that align with Elite Customers' preferences for        non-vegetarian items, ensuring these are timely and fresh to build a strong online presence.
+    * Maintain and enhance customer satisfaction by tailoring promotions that align with Elite Customers' preferences for        non-vegetarian items, ensuring these are   
+      timely and fresh to build a strong online presence.
 #### Category 4. Encourage Online Purchases:
     * Highlight the convenience and benefits of online transactions, especially to Elite Customers, to increase online           purchases and use of the gold membership.
 #### Category 5. Enhance Gold Product Promotions:
@@ -76,7 +76,7 @@ Based on the key observations, the following strategies are recommended:
     * While the membership is attractively priced, appeal may vary by region and demographic.
 
 ## Conclusion
-    Implementing these recommendations allows the superstore to reduce campaign costs by targeting the right customers for     the gold membership offer. The predictive model helps identify potential buyers, enabling a more efficient and     
-    targeted campaign approach.
+Implementing these recommendations allows the superstore to reduce campaign costs by targeting the right customers for     the gold membership offer. The predictive  model helps identify potential buyers, enabling a more efficient and     
+targeted campaign approach.
 
 **Note**: These observations and recommendations are based on the available data and provide valuable insights for decision-making. Further analysis may uncover additional growth and optimization opportunities for the company.
