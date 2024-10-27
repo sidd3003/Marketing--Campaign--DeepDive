@@ -36,6 +36,7 @@ Here is the glimpse of dashboard.
 
 ## Insights
 #### Category 1. Elite Customer Category:
+
     * Elite Customers contribute 86% of total sales, showing high purchase frequency.
     * This segment is the most likely to respond positively to the gold membership offer.
 #### Category 2. Potential Customers:
